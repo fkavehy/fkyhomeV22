@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://drive.google.com/file/d/18Jn9xVQa4ff5f8K6eunBa7cT8hfkObIf/view?usp=sharing
+  date_end: ""
+  date_start: "2022-09-22"
+  description: Udemy
+  organization: udemy
+  organization_url: https://www.udemy.com
+  title: Python and machine learning in financial analysis
+  url: ""
+- certificate_url: https://coursera.org/share/9e96ee652dff53cab104fb39ee26b8e7
+  date_end: ""
+  date_start: "2016-10-01"
+  description: Duke University
+  organization: coursera
+  organization_url: https://www.coursera.org
+  title: Reasoning, Data Analysis, and Writing Specialization
+  url: ""
 - certificate_url: https://coursera.org/share/9e96ee652dff53cab104fb39ee26b8e7
   date_end: ""
   date_start: "2021-01-09"
@@ -66,8 +82,8 @@ item:
 - certificate_url: https://drive.google.com/file/d/1pZnm7xt40CCkC2h72YD6JUtmmUtzsiBv/view?usp=sharing
   date_end: ""
   date_start: "2014-12-03"
-  description: 
-  organization: Stanford University (Grade 81.66/100)
+  description: Stanford University (Grade 81.66/100)
+  organization: coursera
   organization_url: https://www.stanford.edu/
   title: Mining Massive Dataset
   url: ""
