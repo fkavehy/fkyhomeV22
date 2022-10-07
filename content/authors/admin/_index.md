@@ -1,6 +1,7 @@
 ---
 title: Fatemeh Kaveh-Yazdy
 role: Data Scientist
+avatar_filename: avatar.jpg
 bio: My research interests include Natural Language Processing, Time Series
   Analysis, Biomedical Data Analysis.
 interests:
