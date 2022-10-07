@@ -35,4 +35,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Fatemeh Kaveh-Yazdy is a senior data scientist at YU's DSI. Her research interest includes natural language processing, time series analysis, and machine learning for biomedical applications. She has served as a machine learning engineer and senior data scientist in a broad domain of business and academic data analytics projects.
+Fatemeh Kaveh-Yazdy is a data scientist at Iran's Card Payment Network (a.k.a Shaparak). Her research interest includes natural language processing, time series analysis, and machine learning for outlier detection.  She has served as a senior data scientist in a broad domain of business and academic data analytics projects.  Furthermore, she is a bioinformatic enthusiast.
