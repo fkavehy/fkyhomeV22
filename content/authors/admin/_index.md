@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/fatemeh-kaveh-yazdy-99101b88/?originalSubdomain=ir
 organizations:
   - name: Shaparak
-    url: https:\\www.shaparak.ir
+    url: ""
 education:
   courses:
     - course: Ph.D. in Computer Engineering (Software)
