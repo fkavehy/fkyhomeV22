@@ -27,7 +27,7 @@ education:
       institution: Yazd University
     - course: MSc. in Computer Science
       year: 2009
-      institution: Yazd University
+      institution: Sharif University of Technology
     - course: BSc. in Computer Engineering (Software)
       year: 2007
       institution: Yazd University
