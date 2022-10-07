@@ -1,39 +1,64 @@
 ---
+# Display name
 title: Fatemeh Kaveh-Yazdy
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
 role: Data Scientist
-avatar_filename: avatar.jpg
-bio: My research interests include Natural Language Processing, Time Series
-  Analysis, Biomedical Data Analysis.
-interests:
-  - Text Mining
-  - Machine Learning
-  - Anomaly Detection
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=c4BE98cAAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/fatemeh-kaveh-yazdy-99101b88/?originalSubdomain=ir
+
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shaparak
-    url: https://www.shaparak.ir
+- name: Shaparak
+  url: www.yazd.ac.ir
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Natural Language Processing, Time Series Analysis, Biomedical Data Analysis.
+
+# Interests to show in About widget
+interests:
+- Text Mining
+- Machine Learning
+- Anomaly Detection
+
+
+# Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Engineering (Software)
-      year: 2019
-      institution: Yazd University
-    - course: MSc. in Computer Science
-      year: 2009
-      institution: Sharif University of Tech.
-    - course: BSc. in Computer Engineering (Software)
-      year: 2007
-      institution: Yazd University
+  - course: Ph.D. in Computer Engineering (Software)
+    year: 2019
+  - course: MSc. in Computer Science
+    year: 2009
+  - course: BSc. in Computer Engineering (Software)
+    year: 2007
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=c4BE98cAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fatemeh-kaveh-yazdy-99101b88/?originalSubdomain=ir
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-superuser: true
+
+# Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 Fatemeh Kaveh-Yazdy is a data scientist at Iran's Card Payment Network (a.k.a Shaparak). Her research interest includes natural language processing, time series analysis, and machine learning for outlier detection.  She has served as a senior data scientist in a broad domain of business and academic data analytics projects.  Furthermore, she is a bioinformatic enthusiast.
