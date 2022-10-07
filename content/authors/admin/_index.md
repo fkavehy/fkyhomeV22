@@ -36,3 +36,5 @@ superuser: true
 highlight_name: false
 ---
 Fatemeh Kaveh-Yazdy is a data scientist at Iran's Card Payment Network (a.k.a Shaparak). Her research interest includes natural language processing, time series analysis, and machine learning for outlier detection.  She has served as a senior data scientist in a broad domain of business and academic data analytics projects.  Furthermore, she is a bioinformatic enthusiast.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
